@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"FXAS21002C",
+	"copyright":"Zerynth Team",
+	"files":[
+		["FXAS21002C","fxas21002c.py"]
+	]
+}
