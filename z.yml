@@ -1,0 +1,15 @@
+---
+description: Driver for NXP FXAS21002C Gyroscope
+fullname: lib.nxp.fxas21002c
+info:
+    chip_manufacturer: NXP
+    chip_name: FXAS21002C
+    name: Gyroscope
+    type: Sensor
+keywords:
+- nxp
+- gyroscope
+- angular
+- velocity
+title: NXP FXAS21002C Gyroscope
+...
